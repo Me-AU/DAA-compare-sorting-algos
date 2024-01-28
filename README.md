@@ -40,6 +40,20 @@ Feel free to contribute by adding more languages, more sorts, improving existing
 
 - [Ahsan Ullah](https://github.com/Me-AU)
 
+## How to Contribute
+
+1. **Fork & Clone:** Fork the repository and clone it to your local machine.
+
+2. **Make Changes:** Add more languages/algorithms, improve existing code, or share insights on algorithmic performance.
+
+3. **Commit & Push:** Commit changes and push them to your forked repository.
+
+4. **Create Pull Request:** Submit a pull request with a brief description of your contributions.
+
+5. **Discuss & Improve:** Engage in discussions and be open to feedback for further improvements.
+
+Thank you for contributing!
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as needed.
